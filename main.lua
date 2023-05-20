@@ -113,7 +113,7 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- 10000 ti
             end
             allOptions = wfc.checkValid(allOptions, validOptions)
             end
-    		-- Look down
+    	    -- Look down
             if (j < dim - 1) then
             local down_cell = grid[1+ i + (j + 1) * dim]
             local validOptions = {}
