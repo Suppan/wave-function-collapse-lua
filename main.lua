@@ -147,3 +147,4 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- 10000 ti
 end
 
 wfc.montageDraw(tiles,name)
+wfc.print()
