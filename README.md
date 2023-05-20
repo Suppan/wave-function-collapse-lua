@@ -9,7 +9,7 @@ enter in terminal:
 ```
 lua main.lua
 ```
-result: "dempo.png" 
+result: "demo.png" (dim=10)
 <div align="left"><img src="/resources/demo.png" width="400px"</img></div> 
 
 
