@@ -25,27 +25,27 @@ name = 'demo'
 -- constraints:
 local rules = {
 			--blank(=1)
-		   {{1,2},		-- possible option for blank when go up
+		       {{1,2},	    -- possible option for blank when go up
 			{1,3},	    -- posscble option for blank when go right 
 			{1,4},	    -- possible option for blank when go down 
 			{1,5}},	    -- possible option for 1blank when go left 	
 			--up(=2)
-		   {{3,5,4},
+		       {{3,5,4},
 		 	{5,2,4},
 		 	{1,4},
 		 	{3,2,4}},
 		 	--right(=3)
-		   {{3,5,4},
+		       {{3,5,4},
 			{5,2,4},
 			{3,5,2},
 			{1,5}},	
 			--down(=4)
-	       {{1,2},
+	               {{1,2},
 			{5,2,4},
 			{3,5,2},
 			{3,2,4}},	
 			--left(=5)
-		   {{3,5,4},
+		       {{3,5,4},
 			{1,3},
 			{3,5,2},
 			{2,4,3}}	
