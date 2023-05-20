@@ -28,7 +28,7 @@ random seed = 1684593446
 
 You can set/alter the dimension (size) and the outputname in the file "main.lua" 
 
-build with this tileSet:
+build with this tiles set:
 
 ![](tileSet/blank.png) = 1  
 ![](tileSet/up.png) = 2  
