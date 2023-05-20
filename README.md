@@ -26,7 +26,7 @@ random seed = 1684593446
 ```
 <div align="left"><img src="/resources/demo.png" width="300px"</img></div> 
 
-You can set/alter the dimension (size) and the outputname in the file "main.lua) 
+You can set/alter the dimension (size) and the outputname in the file "main.lua" 
 
 build of these 5 tiles (/tileSet):
 
