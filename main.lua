@@ -5,11 +5,11 @@ print("random seed = " .. r)
 math.randomseed(r)
 
 local tiles = {
-	"tiles/demo/blank.png",
-	"tiles/demo/up.png",
-	"tiles/demo/right.png",
-	"tiles/demo/down.png",
-	"tiles/demo/left.png"
+	"tileSet/blank.png",
+	"tileSet/up.png",
+	"tileSet/right.png",
+	"tileSet/down.png",
+	"tileSet/left.png"
 	}
 
 local theoptions = {}
