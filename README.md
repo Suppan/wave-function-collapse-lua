@@ -30,11 +30,11 @@ You can set/alter the dimension (size) and the outputname in the file "main.lua"
 
 build with this tileSet:
 
-![](tileSet/blank.png) = 1 
-![](tileSet/up.png) = 2
-![](tileSet/right.png) = 3
-![](tileSet/down.png) = 4
-![](tileSet/left.png) = 5
+![](tileSet/blank.png) = 1  
+![](tileSet/up.png) = 2  
+![](tileSet/right.png) = 3  
+![](tileSet/down.png) = 4  
+![](tileSet/left.png) = 5  
 *************
 This program is free software. It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 *************
