@@ -58,5 +58,15 @@ function wfc.montageDraw(tiles,name)
   os.execute(terminal_str)
 end
 
+function wfc.print()
+    for j = 1, dim do
+        local t = {}
+    	for i = 1, dim do
+    	local cell = grid[i]
+    		table.insert(t,cell.options[1])
+		end
+		print(table.concat(t,"\t "))
+	end
+end
 
 return wfc
