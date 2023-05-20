@@ -36,7 +36,7 @@ build with this tiles:
 ![](tileSet/down.png) = 4  
 ![](tileSet/left.png) = 5  
 
-Futher reding: [](https://github.com/mxgmn/WaveFunctionCollapse)
+Futher reding: ()[https://github.com/mxgmn/WaveFunctionCollapse]
 
 [^1]: Wave Function Collapse algorithm (WFC)? Well, it’s an algorithm developed by Maxim Gumin based on work by Paul Merrell for generating tile based images based off simple configuration or sample images
 *************
