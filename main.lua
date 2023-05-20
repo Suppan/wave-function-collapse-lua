@@ -85,9 +85,9 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- 10000 ti
                 cell.collapsed = true
             end
 
-    		if not cell.collapsed then
-    		local allOptions = {}
-    		for y = 1, #theoptions do table.insert(allOptions,theoptions[y]) end
+    	    if not cell.collapsed then
+    	    local allOptions = {}
+    	    for y = 1, #theoptions do table.insert(allOptions,theoptions[y]) end
 
     	    -- Look up
             if (j > 0) then
