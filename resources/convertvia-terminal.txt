@@ -1,0 +1,5 @@
+
+
+convert -resize 25% demo0.png demo.png
+
+convert -quality 100 -resize 400x400 
