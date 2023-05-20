@@ -7,10 +7,23 @@ after installing Lua (ie via homebrew: brew install lua)
 and imagemagick (ie via homebrew: brew install imagemagick)
 
 enter in terminal: 
-```
+```bash
 lua main.lua
 ```
 result: "demo.png" (dim=10x10)
+```bash
+random seed = 1684593446
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+4	 4	 4	 5	 3	 2	 4	 4	 2	 4
+```
 <div align="left"><img src="/resources/demo.png" width="300px"</img></div> 
 
 You can set/alter the dimension (size) and the outputname in the file "main.lua) 
