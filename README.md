@@ -4,6 +4,7 @@ simple algorithm to create complex structures
 ## Usage
 
 after installing Lua (ie via homebrew: brew install lua)
+and imagemagick (ie via homebrew: brew install imagemagick)
 
 enter in terminal: 
 ```
