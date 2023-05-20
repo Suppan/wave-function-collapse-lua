@@ -10,7 +10,7 @@ enter in terminal:
 ```
 lua main.lua
 ```
-result: "demo.png" (dim=10)
+result: "demo.png" (dim=10x10)
 <div align="left"><img src="/resources/demo.png" width="300px"</img></div> 
 
 
