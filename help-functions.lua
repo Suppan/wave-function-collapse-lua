@@ -11,7 +11,7 @@ function wfc.setupGrid()
 	grid[i] = {
 		collapsed = false,
 		options = {1,2,3,4,5},
-        pos = i
+        	pos = i
 		}
   end
 end
