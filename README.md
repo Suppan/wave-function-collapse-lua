@@ -10,7 +10,7 @@ enter in terminal:
 lua main.lua
 ```
 result: "demo.png" (dim=10)
-<div align="left"><img src="/resources/demo.png" width="400px"</img></div> 
+<div align="left"><img src="/resources/demo.png" width="300px"</img></div> 
 
 ![](tileSet/blank.png) = 1 
 ![](tileSet/up.png) = 2
