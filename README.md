@@ -12,6 +12,10 @@ lua main.lua
 result: "demo.png" (dim=10)
 <div align="left"><img src="/resources/demo.png" width="300px"</img></div> 
 
+
+
+build of these 5 elements:
+
 ![](tileSet/blank.png) = 1 
 ![](tileSet/up.png) = 2
 ![](tileSet/right.png) = 3
