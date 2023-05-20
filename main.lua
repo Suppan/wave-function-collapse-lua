@@ -28,7 +28,7 @@ local rules = {
 		       {{1,2},	    -- possible option for blank when go up
 			{1,3},	    -- posscble option for blank when go right 
 			{1,4},	    -- possible option for blank when go down 
-			{1,5}},	    -- possible option for 1blank when go left 	
+			{1,5}},	    -- possible option for blank when go left 	
 			--up(=2)
 		       {{3,5,4},
 		 	{5,2,4},
