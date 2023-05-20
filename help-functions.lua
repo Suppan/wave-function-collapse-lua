@@ -59,10 +59,11 @@ function wfc.montageDraw(tiles,name)
 end
 
 function wfc.print()
-    for j = 1, dim do
-        local t = {}
-    	for i = 1, dim do
-    	local cell = grid[i]
+    for j = 0, dim-1 do
+    	local t = {}
+    	for i = 0, dim-1 do
+    		local index = i + j * dim 
+    		local cell = grid[index+1]
     		table.insert(t,cell.options[1])
 		end
 		print(table.concat(t,"\t "))
