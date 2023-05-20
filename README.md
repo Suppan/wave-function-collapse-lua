@@ -12,8 +12,11 @@ lua main.lua
 result: "demo.png" (dim=10)
 <div align="left"><img src="/resources/demo.png" width="400px"</img></div> 
 
-![](tileSet/blank.png) = 1
+![](tileSet/blank.png) = 1 
 ![](tileSet/up.png) = 2
+![](tileSet/right.png) = 3
+![](tileSet/down.png) = 4
+![](tileSet/left.png) = 5
 *************
 This program is free software. It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 *************
