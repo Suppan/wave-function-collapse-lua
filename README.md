@@ -1,5 +1,5 @@
 # wave-function-collapse-lua
-simple algorithm to create complex structures
+simple algorithm to create complex structures with simple rules (which neighbours are allowed)
 
 ## Usage
 
