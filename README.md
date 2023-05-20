@@ -10,9 +10,7 @@ enter in terminal:
 lua main.lua
 ```
 result:
-```
-demo.png
-```
+<div align="center"><img src="/resources/demo.png" width="800px"</img></div> 
 *************
 This program is free software. It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 *************
