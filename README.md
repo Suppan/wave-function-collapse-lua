@@ -38,7 +38,7 @@ build with this tiles:
 
 Futher informations and descriptions: https://github.com/mxgmn/WaveFunctionCollapse
 
-[^1]: Wave Function Collapse algorithm (WFC) is an algorithm developed by Maxim Gumin based on work by Paul Merrell for generating tile based images based off simple configuration or sample images
+[^1]: Wave Function Collapse (WFC) is an algorithm developed by Maxim Gumin based on work by Paul Merrell for generating tile based images based off simple configuration or sample images
 *************
 This program is free software. It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 *************
