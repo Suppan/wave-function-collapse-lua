@@ -5,8 +5,12 @@ dim = 4
 name = 'default'
 local tiles = {}
 
-function wfc.setupGrid()
+function wfc.setupGrid(ntiles)
   for i = 1, dim*dim do
+  	local t = {}
+  	for n = 1, ntiles do 
+	table.insert(t,n)
+	end
   	grid[i] = {}
 	grid[i] = {
 		collapsed = false,
