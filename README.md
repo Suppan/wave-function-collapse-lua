@@ -15,7 +15,7 @@ result: "demo.png" (dim=10)
 
 
 
-build of these 5 elements:
+build of these 5 tiles (/tileSet):
 
 ![](tileSet/blank.png) = 1 
 ![](tileSet/up.png) = 2
