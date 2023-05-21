@@ -58,7 +58,7 @@ function wfc.montageDraw(tiles,name)
 		if cell.collapsed then terminal_str = terminal_str .." ".. tiles[cell.options[1]] 
 		end
   end
-  terminal_str = terminal_str .. string.format(" -tile %dx%d -geometry +0+0 -border 0 %s.png", dim, dim,name)
+  terminal_str = terminal_str .. string.format(" -tile %dx%d -geometry +0+0 -border 0 %s.png",dim,dim,name)
   os.execute(terminal_str)
 end
 
