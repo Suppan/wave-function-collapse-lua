@@ -3,7 +3,7 @@ wfc = {}
 grid = {}
 dim = 4
 name = 'default'
-local tiles = {}
+tiles = {}
 
 function wfc.setupGrid(ntiles)
   for i = 1, dim*dim do
