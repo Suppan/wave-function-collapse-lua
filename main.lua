@@ -141,9 +141,9 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- 10000 ti
             if (#allOptions > 0) then 
                 cell.options = allOptions
             end
-    		end
-    	end
-    end  
+    	 end
+      end
+   end  
 end
 
 wfc.montageDraw(tiles,name)
