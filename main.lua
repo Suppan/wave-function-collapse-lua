@@ -55,7 +55,7 @@ local rules = {
 wfc.setupGrid(#tiles)
 
 local stopcounter = 0
-while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety limit)
+while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety limit with stopcounter)
 
     stopcounter = stopcounter + 1 
     
