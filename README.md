@@ -24,17 +24,17 @@ random seed = 1684593446
 3	 4	 5	 3	 2	 2	 2	 4	 4	 2
 3	 2	 5	 3	 4	 4	 4	 2	 5	 1
 ```
-<div align="left"><img src="demo.png" width="680px"</img></div> 
+<div align="left"><img src="demo.pdf" width="680px"</img></div> 
 
 You can set/alter the dimension (size) and the outputname in the file "main.lua" 
 
 build with this tiles:
 
-![](tileSet/blank.png) = 1  
-![](tileSet/up.png) = 2  
-![](tileSet/right.png) = 3  
-![](tileSet/down.png) = 4  
-![](tileSet/left.png) = 5  
+![](tiles/blank.png) = 1  
+![](tiles/up.png) = 2  
+![](tiles/right.png) = 3  
+![](tiles/down.png) = 4  
+![](tiles/left.png) = 5  
 
 Futher informations and descriptions: https://github.com/mxgmn/WaveFunctionCollapse
 
