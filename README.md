@@ -24,7 +24,7 @@ random seed = 1684593446
 3	 4	 5	 3	 2	 2	 2	 4	 4	 2
 3	 2	 5	 3	 4	 4	 4	 2	 5	 1
 ```
-<div align="left"><img src="tiles/demo.pdf" width="680px"</img></div> 
+<div align="left"><img src="tiles/demo.png" width="680px"</img></div> 
 
 You can set/alter the dimension (size) and the outputname in the file "main.lua" 
 
