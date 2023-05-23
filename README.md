@@ -10,7 +10,7 @@ enter in terminal:
 ```bash
 lua main.lua
 ```
-result: "demo.png" (dim=10x10)
+result: "demo.pdf" (dim=10x10)
 ```bash
 random seed = 1684593446
 4	 4	 4	 5	 3	 2	 4	 4	 2	 4
