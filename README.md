@@ -30,15 +30,15 @@ You can set/alter the dimension (size) and the outputname in the file "main.lua"
 
 build with this tiles:
 
-1:
+1 (blank):
 <div align="left"><img src="tiles/blank.png" width="80px"</img></div>
-2: 
+2 (up): 
 <div align="left"><img src="tiles/up.png" width="80px"</img></div> 
-3:
+3 (right):
 <div align="left"><img src="tiles/right.png" width="80px"</img></div>     
-4:
+4 (down):
 <div align="left"><img src="tiles/down.png" width="80px"</img></div>   
-5:
+5 (left):
 <div align="left"><img src="tiles/left.png" width="80px"</img></div>    
 
 
