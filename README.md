@@ -30,11 +30,11 @@ You can set/alter the dimension (size) and the outputname in the file "main.lua"
 
 build with this tiles:
 
-<div align="left"><img src="tiles/blank.png" width="80px"</img></div> 
-<div align="left"><img src="tiles/up.png" width="80px"</img></div> 
-<div align="left"><img src="tiles/right.png" width="80px"</img></div> 
-<div align="left"><img src="tiles/down.png" width="80px"</img></div> 
-<div align="left"><img src="tiles/left.png" width="80px"</img></div> 
+<div align="left"><img src="tiles/blank.png" width="80px"</img></div>  = 1 
+<div align="left"><img src="tiles/up.png" width="80px"</img></div>  = 2
+<div align="left"><img src="tiles/right.png" width="80px"</img></div>  = 3   
+<div align="left"><img src="tiles/down.png" width="80px"</img></div>  = 4  
+<div align="left"><img src="tiles/left.png" width="80px"</img></div>  = 5  
 
 ![](tiles/blank.png) = 1  
 ![](tiles/up.png) = 2  
