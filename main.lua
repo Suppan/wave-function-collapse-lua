@@ -89,7 +89,7 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety 
     	    local allOptions = {}
     	    for y = 1, #theoptions do table.insert(allOptions,theoptions[y]) end
 
-    	    -- Look up
+    	    -- cell up
             if (j > 0) then
             local up_cell = grid[1 + i + (j - 1) * dim]
             local validOptions = {}
@@ -101,7 +101,7 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety 
             end
             allOptions = wfc.checkValid(allOptions, validOptions)
             end
-    	    -- Look right
+    	    -- cell right
             if (i < dim - 1) then
             local right_cell = grid[1+ i + 1 + j * dim]
             local validOptions = {}
@@ -113,7 +113,7 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety 
             end
             allOptions = wfc.checkValid(allOptions, validOptions)
             end
-    	    -- Look down
+    	    -- cell down
             if (j < dim - 1) then
             local down_cell = grid[1+ i + (j + 1) * dim]
             local validOptions = {}
@@ -125,7 +125,7 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety 
             end
             allOptions = wfc.checkValid(allOptions, validOptions)
             end
-    	    -- Look left
+    	    -- cell left
             if (i > 0) then
             local left_cell = grid[1 + i - 1 + j * dim];
             local validOptions = {}
