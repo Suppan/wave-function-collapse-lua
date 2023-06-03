@@ -73,9 +73,9 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety 
     		if not cell.collapsed and #cell.options == minEntropy then table.insert(minEntropyPos,i)  end
     end
 
-    local collapsCand = table.collaps(minEntropyPos)[1]
-    grid[collapsCand].collapsed = true
-    grid[collapsCand].options = table.collaps(grid[collapsCand].options)
+    local collapseCand = table.collapse(minEntropyPos)[1]
+    grid[collapseCand].collapsed = true
+    grid[collapseCand].options = table.collapse(grid[collapseCand].options)
 
     for j = 0, dim-1 do
     	for i = 0, dim-1 do
