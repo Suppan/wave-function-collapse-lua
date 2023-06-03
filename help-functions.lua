@@ -20,7 +20,7 @@ function wfc.setupGrid(ntiles)
   end
 end
 
-function table.reduced_rand(arr)
+function table.collaps(arr)
 	local t = {}
 	local pos = math.random(#arr)
 	t[1] = arr[pos]
