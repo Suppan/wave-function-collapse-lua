@@ -75,7 +75,7 @@ while (wfc.countCollapsed() < dim*dim) and (stopcounter < 100000) do -- (safety 
 
     local collapsCand = table.collaps(minEntropyPos)[1]
     grid[collapsCand].collapsed = true
-    grid[collapsCand].options = table.reduced_rand(grid[collapsCand].options)
+    grid[collapsCand].options = table.collaps(grid[collapsCand].options)
 
     for j = 0, dim-1 do
     	for i = 0, dim-1 do
