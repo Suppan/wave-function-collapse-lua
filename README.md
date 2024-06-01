@@ -25,7 +25,7 @@ You can set/alter the dimension (size) and the outputname in the file "main.lua"
 
 build with this tiles:
 
-1-5: 
+1-5 (1=blank): 
 <div align="left"><img src="tiles/tiles.png" width="180px"</img></div> 
 
 Futher informations and descriptions: https://github.com/mxgmn/WaveFunctionCollapse
