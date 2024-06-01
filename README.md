@@ -19,7 +19,7 @@ dimy = 	15
 225 cicles calculated
 0 errors!
 ```
-<div align="left"><img src="tiles/wfc5.pdf" width="680px"</img></div> 
+<div align="left"><img src="tiles/wfc5.png" width="680px"</img></div> 
 
 You can set/alter the dimension (size) and the outputname in the file "main.lua" 
 
