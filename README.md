@@ -4,7 +4,7 @@ simple algorithm[^1] to create complex structures with simple rules (which neigh
 ## Usage
 
 after installing Lua (ie via homebrew: brew install lua)
-and imagemagick (ie via homebrew: brew install imagemagick)
+and ghostscript (ie via homebrew: brew install ghostscript) for use of ps2pdf
 
 enter in terminal: 
 ```bash
