@@ -21,7 +21,7 @@ dimy = 	15
 ```
 <div align="left"><img src="tiles/wfc5.png" width="680px"</img></div> 
 
-You can set/alter the dimension (size) and the outputname in the file "main.lua" 
+You can set/alter the dimension (size) in the file "main.lua" 
 
 build with this tiles:
 
