@@ -460,7 +460,7 @@ function wfc.rand5(dimx,dimy,info)
         print("wfc.rand5()")
         print("dimx = ",dimx)
         print("dimy = ",dimy)
-        print(stopcounter .." cicles calculated")
+        print(stopcounter .." cycles calculated")
         wfc.error5(grid)
     end
     return arr
