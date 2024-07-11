@@ -16,7 +16,7 @@ random seed = 1717255150
 wfc.rand5()
 dimx = 	15
 dimy = 	15
-225 cicles calculated
+225 cycles calculated
 0 errors!
 ```
 <div align="left"><img src="tiles/wfc5.png" width="680px"</img></div> 
